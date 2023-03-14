@@ -1,8 +1,25 @@
 .header-wrap{
   width: 100%;
-  height: 40px;
   background-color: #37306B;
   font-family: 'Noto Sans KR', sans-serif;
+}
+.header-wrap .logo{
+  height: 50px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.header-wrap .logo img{
+  height: 70%;
+  margin-right: 10px;
+}
+.header-wrap .logo h1{
+  line-height: 48px;
 }
 .header-wrap ul{
   display: flex;
@@ -19,8 +36,8 @@
   color: #fff;
   text-decoration: none;
   line-height: 38px;
-  transition: background-color 0.3s;
 }
 .header-wrap ul li a:hover{
-  background-color: #2e285e;
+  font-weight: bold;
+  text-decoration: underline;
 }
