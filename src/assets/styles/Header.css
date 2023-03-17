@@ -2,6 +2,13 @@
   width: 100%;
   background-color: #37306B;
   font-family: 'Noto Sans KR', sans-serif;
+  position: fixed;
+  top: 0;
+  transition: all 0.2s;
+}
+.header-wrap.hide{
+  top: -98px;
+  opacity: 0;
 }
 .header-wrap .logo{
   height: 50px;
