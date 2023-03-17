@@ -2,6 +2,7 @@
   "name": "sleepy-calc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://walkingcabbage.github.io/sleepy-calc/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -16,6 +17,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
+    "serve": "^14.2.0",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -23,7 +25,8 @@
     "start": "react-scripts start",
     "build": "tsc",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.191"
+    "@types/lodash": "^4.14.191",
+    "gh-pages": "^5.0.0"
   }
 }
