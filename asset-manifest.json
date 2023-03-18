@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/sleepy-calc/static/css/main.b906a8bc.css",
-    "main.js": "/sleepy-calc/static/js/main.ef157443.js",
-    "static/css/67.07278a06.chunk.css": "/sleepy-calc/static/css/67.07278a06.chunk.css",
-    "static/js/67.4867f4e8.chunk.js": "/sleepy-calc/static/js/67.4867f4e8.chunk.js",
-    "static/css/970.4854db9e.chunk.css": "/sleepy-calc/static/css/970.4854db9e.chunk.css",
-    "static/js/970.22d3b0bf.chunk.js": "/sleepy-calc/static/js/970.22d3b0bf.chunk.js",
-    "static/media/baby-g2b1f48f47_640.jpg": "/sleepy-calc/static/media/baby-g2b1f48f47_640.672a45a494487664b1f3.jpg",
-    "static/media/cat-gc7807c2b0_640.jpg": "/sleepy-calc/static/media/cat-gc7807c2b0_640.9d8d10b8b635c39a3411.jpg",
-    "static/media/moon-gc0c214c8a_640.jpg": "/sleepy-calc/static/media/moon-gc0c214c8a_640.17a3bb3d3445faf0999b.jpg",
-    "index.html": "/sleepy-calc/index.html",
-    "main.b906a8bc.css.map": "/sleepy-calc/static/css/main.b906a8bc.css.map",
-    "main.ef157443.js.map": "/sleepy-calc/static/js/main.ef157443.js.map",
-    "67.07278a06.chunk.css.map": "/sleepy-calc/static/css/67.07278a06.chunk.css.map",
-    "67.4867f4e8.chunk.js.map": "/sleepy-calc/static/js/67.4867f4e8.chunk.js.map",
-    "970.4854db9e.chunk.css.map": "/sleepy-calc/static/css/970.4854db9e.chunk.css.map",
-    "970.22d3b0bf.chunk.js.map": "/sleepy-calc/static/js/970.22d3b0bf.chunk.js.map"
+    "main.css": "/static/css/main.b906a8bc.css",
+    "main.js": "/static/js/main.8e2b53c1.js",
+    "static/css/67.07278a06.chunk.css": "/static/css/67.07278a06.chunk.css",
+    "static/js/67.4867f4e8.chunk.js": "/static/js/67.4867f4e8.chunk.js",
+    "static/css/970.4854db9e.chunk.css": "/static/css/970.4854db9e.chunk.css",
+    "static/js/970.22d3b0bf.chunk.js": "/static/js/970.22d3b0bf.chunk.js",
+    "static/media/baby-g2b1f48f47_640.jpg": "/static/media/baby-g2b1f48f47_640.672a45a494487664b1f3.jpg",
+    "static/media/cat-gc7807c2b0_640.jpg": "/static/media/cat-gc7807c2b0_640.9d8d10b8b635c39a3411.jpg",
+    "static/media/moon-gc0c214c8a_640.jpg": "/static/media/moon-gc0c214c8a_640.17a3bb3d3445faf0999b.jpg",
+    "index.html": "/index.html",
+    "main.b906a8bc.css.map": "/static/css/main.b906a8bc.css.map",
+    "main.8e2b53c1.js.map": "/static/js/main.8e2b53c1.js.map",
+    "67.07278a06.chunk.css.map": "/static/css/67.07278a06.chunk.css.map",
+    "67.4867f4e8.chunk.js.map": "/static/js/67.4867f4e8.chunk.js.map",
+    "970.4854db9e.chunk.css.map": "/static/css/970.4854db9e.chunk.css.map",
+    "970.22d3b0bf.chunk.js.map": "/static/js/970.22d3b0bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b906a8bc.css",
-    "static/js/main.ef157443.js"
+    "static/js/main.8e2b53c1.js"
   ]
 }
