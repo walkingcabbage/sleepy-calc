@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sleepy-calc/static/css/main.b906a8bc.css",
-    "main.js": "/sleepy-calc/static/js/main.3b7a8bc0.js",
+    "main.js": "/sleepy-calc/static/js/main.20a26f72.js",
     "static/css/492.a23ffbc9.chunk.css": "/sleepy-calc/static/css/492.a23ffbc9.chunk.css",
     "static/js/492.d80338e7.chunk.js": "/sleepy-calc/static/js/492.d80338e7.chunk.js",
     "static/css/78.f13a6814.chunk.css": "/sleepy-calc/static/css/78.f13a6814.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/moon-gc0c214c8a_640.jpg": "/sleepy-calc/static/media/moon-gc0c214c8a_640.17a3bb3d3445faf0999b.jpg",
     "index.html": "/sleepy-calc/index.html",
     "main.b906a8bc.css.map": "/sleepy-calc/static/css/main.b906a8bc.css.map",
-    "main.3b7a8bc0.js.map": "/sleepy-calc/static/js/main.3b7a8bc0.js.map",
+    "main.20a26f72.js.map": "/sleepy-calc/static/js/main.20a26f72.js.map",
     "492.a23ffbc9.chunk.css.map": "/sleepy-calc/static/css/492.a23ffbc9.chunk.css.map",
     "492.d80338e7.chunk.js.map": "/sleepy-calc/static/js/492.d80338e7.chunk.js.map",
     "78.f13a6814.chunk.css.map": "/sleepy-calc/static/css/78.f13a6814.chunk.css.map",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.b906a8bc.css",
-    "static/js/main.3b7a8bc0.js"
+    "static/js/main.20a26f72.js"
   ]
 }
